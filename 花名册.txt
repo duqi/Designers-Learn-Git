@@ -58,5 +58,6 @@ Mark        硬件攻城狮正在学习做程序猿
 com         前端
 ajason      UI,UE Designer
 Jurassic    学生
+duqi        数据分析师
 =======
 >>>>>>> nevercat-master
